@@ -39,7 +39,7 @@
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
 
 ### Web Components
-- [Stencil](https://stenciljs.com/): a toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
+- [Stencil](https://stenciljs.com/): A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and traditional web developers from a single, framework-agnostic codebase.
 
 
 ## IDE
